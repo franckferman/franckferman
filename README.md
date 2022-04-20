@@ -95,10 +95,15 @@ Languages and Tools🛠:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franckferman&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
 
+<br/><br/>
+
+<a href="https://github.com/franckferman/github-profile-trophy">
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=franckferman&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+</a>
+
 <br/>
 <br/>
 <br/>
-<br>
 
 ### My Projects ✨:
   
@@ -120,6 +125,7 @@ Languages and Tools🛠:
 
 <div align="center">
   
+<br/>
 
 ### Show ❤️ by 🌟 my [repositories](https://github.com/franckferman?tab=repositories)!
 
