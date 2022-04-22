@@ -15,13 +15,15 @@ Certifications: MD-100 🏅<br/><br/>
 
 <img align="right" alt="GIF" src="./img/chill.gif" width="400" height="280"/><!--<img align="right" alt="GIF" src="https://res.cloudinary.com/emishalabs/image/upload/q_80/v1612203030/UtkalHacks%203.0/camputer-image_zmpt7b.webp" width="400" height="280" />-->
 
-- 🔭👨‍💼 System and Network Administrator for the city of Aulnay-sous-Bois.
-- 🌱 I am currently preparing my CCNA.
-- 👯 I’m looking to collaborate with any admins, developers or security experts.
-- 🤔 I’m looking for help with Open source Contribution.
+- 🔭 Currently systems and network administrator (for the city of Aulnay-sous-Bois).
+- 🌱 Some certification objectives: MD101, CCNA, CCNP.
+- 🥷 I am open to any collaboration request (preferably with system and network administrators, computer security experts or developers).
 - 💬 Ask me about IT networks.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 to work 24x7.
+- ⚡ I 💖 to work 24/7.
+
+<br/>
+
 - 🎢 Profile Visitors Count:  
 ![](https://visitor-badge.glitch.me/badge?page_id=franckferman.franckferman)
 
