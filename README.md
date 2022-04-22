@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <p align="center">
-<img width="200rem"; height="auto" src="./img/logo.png"/>
+<img width="200rem"; height="auto" src="./resources/images/logo.png"/>
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F74924&size=20&center=true&vCenter=true&width=550&height=70&lines=Hello+everyone+👋,+my+name+is+Franck+FERMAN+🥐️;Systems,+networks+and+computer+security+💻;IT+enthusiast,+I+love+to+set+up+projects+🛠️;">
@@ -14,7 +14,7 @@ I am interested in learning everything related to the computer field 💖 especi
 These companies trusted me: <a href="https://www.veolia.com/">Veolia</a> 🌍, the <a href="https://www.assemblee-nationale.fr/">French National Assembly</a> 🇫🇷, the <a href="https://www.aulnay-sous-bois.fr/">city of Aulnay-sous-Bois</a> 🏙 and <a href="https://www.helpline.fr/">HELPLINE</a> 💻<br/>
 Certifications: <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-100">MD-100</a> 🏅<br/><br/>
 
-<img align="right" alt="GIF" src="./img/chill.gif" width="400" height="280"/><!--<img align="right" alt="GIF" src="https://res.cloudinary.com/emishalabs/image/upload/q_80/v1612203030/UtkalHacks%203.0/camputer-image_zmpt7b.webp" width="400" height="280" />-->
+<img align="right" alt="GIF" src="./resources/images/chill.gif" width="400" height="280"/><!--<img align="right" alt="GIF" src="https://res.cloudinary.com/emishalabs/image/upload/q_80/v1612203030/UtkalHacks%203.0/camputer-image_zmpt7b.webp" width="400" height="280" />-->
 
 - 🔭 Currently systems and network administrator.
 - 🌱 Some certification objectives: <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-101">MD-101</a>, <a href="https://learningnetwork.cisco.com/s/ccna">CCNA</a>, <a href="https://learningnetwork.cisco.com/s/ccnp-enterprise">CCNP</a>.
@@ -63,7 +63,7 @@ Languages, tools and technologies (used or mastered) 🛠:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/5/58/Hyper-V_Logo.png?20211202221719"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg"></code>
-<code><img height="20" src="./img/vmware-vSphere-logo.png"></code>
+<code><img height="20" src="./resources/images/vmware-vSphere-logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png"></code>
