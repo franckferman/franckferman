@@ -80,7 +80,7 @@ Languages, tools and technologies (used or mastered) 🛠:
 <br/>
 
 <a href="mailto:fferman@protonmail.ch">
-  <img align="left" alt="ProtonMail" width="18px" src="https://protonmail.com/images/media/logos/protonmail-sign-dark.png"/>
+  <img align="left" alt="ProtonMail" width="16px" src="https://protonmail.com/images/media/logos/protonmail-sign-dark.png"/>
 </a>
 
 <a href="https://github.com/FranckFERMAN">
