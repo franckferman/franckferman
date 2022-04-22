@@ -22,7 +22,7 @@ Certifications: MD-100 🏅<br/><br/>
 - 😄 Pronouns: He/Him
 - ⚡ I 💖 to work 24/7.
 - 🎢 Profile Visitors Count:
-<br/>![](https://visitor-badge.glitch.me/badge?page_id=franckferman.franckferman)
+<br/><br/>![](https://visitor-badge.glitch.me/badge?page_id=franckferman.franckferman)
 
 <br/>
 
