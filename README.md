@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=F74924&size=20&center=true&vCenter=true&width=550&height=70&lines=Hello+everyone+👋,+my+name+is+Franck+FERMAN+🥐️;Systems,+networks+and+computer+security+💻;IT+enthusiast,+I+love+to+set+up+projects+🛠️;">
 </p>
 
-### About me🧑:
+### About me🔎:
 I am a computer enthusiast.<br/>
 I am interested in learning everything related to the computer field 💖 especially system and network administration and computer security.<br/>
 These companies trusted me: Veolia 🌍, the French National Assembly 🇫🇷, the city of Aulnay-sous-Bois 🏙, HELPLINE 💻...<br/>
