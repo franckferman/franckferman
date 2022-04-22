@@ -17,7 +17,7 @@ Past certifications: MD-100 🏅
 <img align="right" alt="GIF" src="https://res.cloudinary.com/emishalabs/image/upload/q_80/v1612203030/UtkalHacks%203.0/camputer-image_zmpt7b.webp" width="400" height="280" />
 -->
 
-<img align="right" alt="GIF" src="./img/chill.gif" width="400" height="280" />
+<img align="right" alt="GIF" src="./img/1100000010101000.png" width="400" height="280" />
 
 - 🔭 System and Network Administrator for the city of Aulnay-sous-Bois.
 - 🌱 I am currently preparing my CCNA.
