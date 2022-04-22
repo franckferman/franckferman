@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <p align="center">
-<img width="200rem"; height="auto" src="./img/chill.gif"/>
+<img width="200rem"; height="auto" src="./img/logo.gif"/>
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F74924&size=20&center=true&vCenter=true&width=550&height=70&lines=Hello+everyone+👋,+my+name+is+Franck+FERMAN+🥐️;Systems,+networks+and+computer+security+💻;IT+enthusiast,+I+love+to+set+up+projects+🛠️;">
@@ -17,7 +17,7 @@ Past certifications: MD-100 🏅
 <img align="right" alt="GIF" src="https://res.cloudinary.com/emishalabs/image/upload/q_80/v1612203030/UtkalHacks%203.0/camputer-image_zmpt7b.webp" width="400" height="280" />
 -->
 
-<img align="right" alt="GIF" src="./img/htb.gif" width="400" height="280" />
+<img align="right" alt="GIF" src="./img/chill.gif" width="400" height="280" />
 
 - 🔭 System and Network Administrator for the city of Aulnay-sous-Bois.
 - 🌱 I am currently preparing my CCNA.
