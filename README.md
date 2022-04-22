@@ -10,8 +10,8 @@
 ### About me🔎:
 I am a computer enthusiast.<br/>
 I am interested in learning everything related to the computer field 💖 especially system and network administration and computer security.<br/><br/>
-These companies trusted me: Veolia 🌍, the French National Assembly 🇫🇷, the city of Aulnay-sous-Bois 🏙, HELPLINE 💻...<br/>
-Past certifications: MD-100 🏅
+These companies trusted me: Veolia 🌍, the French National Assembly 🇫🇷, the city of Aulnay-sous-Bois 🏙 and HELPLINE 💻<br/>
+Certifications: MD-100 🏅<br/>
 
 <!--
 <img align="right" alt="GIF" src="https://res.cloudinary.com/emishalabs/image/upload/q_80/v1612203030/UtkalHacks%203.0/camputer-image_zmpt7b.webp" width="400" height="280" />
