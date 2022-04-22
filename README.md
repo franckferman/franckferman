@@ -39,7 +39,7 @@ Languages, tools and technologies (used or mastered) 🛠:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/324px-Gnu-bash-logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg/120px-The_C_Programming_Language_logo.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/384px-Ansible_logo.svg.png"></code> 
+<code><img height="20" src="./resources/images/ansible-logo.png"></code> 
 <br/><br/>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png"></code>
@@ -52,15 +52,15 @@ Languages, tools and technologies (used or mastered) 🛠:
 <code><img height="20" src="https://www.fractionservers.com/wp-content/uploads/2021/05/rockylogodebugpoint-1-300x289-1.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png?20191030192001"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/langfr-1920px-Kali_Linux_2.0_wordmark.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Android_robot_head.svg/768px-Android_robot_head.svg.png"></code>
+<code><img height="20" src="./resources/images/android-logo.png"></code>
 <br/><br/>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/langfr-225px-Vimlogo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/378px-Netwide_Assembler.svg.png"></code>
+<code><img height="20" src="./resources/images/nasm-logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/768px-Git-logo.svg.png"></code>
 <br/><br/>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/5/58/Hyper-V_Logo.png?20211202221719"></code>
+<code><img height="20" src="./resources/images/hyper_v-logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg"></code>
 <code><img height="20" src="./resources/images/vmware-vSphere-logo.png"></code>
