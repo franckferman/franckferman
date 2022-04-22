@@ -115,12 +115,6 @@ Languages, tools and technologies (used or mastered) 🛠:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franckferman&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/franckferman/github-profile-trophy">
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=franckferman&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
-</a>
-
 <br/><br/><br/>
 
 ### My Projects ✨:
@@ -145,6 +139,6 @@ Languages, tools and technologies (used or mastered) 🛠:
   
 <br/>
 
-### Show ❤️ by 🌟 my [repositories](https://github.com/franckferman?tab=repositories)!
+### Show me your ❤️ by putting 🌟 to my [repositories](https://github.com/franckferman?tab=repositories).
 
 </div>
