@@ -96,7 +96,7 @@ Languages, tools and technologies (used or mastered) 🛠:
 </a>
 
 <a href="https://linkedin.com/in/fferman42/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
+  <img align="left" alt="LinkedIn" width="24px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
 </a>
 
 <br/>
