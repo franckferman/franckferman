@@ -8,7 +8,7 @@
 </p>
 
 ### About me🔎:
-I am a computer enthusiast.<br/>
+I am a computer enthusiast. 🌟<br/>
 I am interested in learning everything related to the computer field 💖 especially system and network administration and computer security.<br/>
 These companies trusted me: Veolia 🌍, the French National Assembly 🇫🇷, the city of Aulnay-sous-Bois 🏙, HELPLINE 💻...<br/>
 Past certifications: MD-100 🏅
