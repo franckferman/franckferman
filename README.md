@@ -44,19 +44,19 @@ Languages, tools and technologies (used or mastered).🛠:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png?20141107110902"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/276px-MySQL_logo.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <br/><br/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/langfr-225px-Vimlogo.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Windows_logo_-_2012_flags_blue.svg/1024px-Windows_logo_-_2012_flags_blue.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Windows_logo_-_2012_flags_blue.svg/255px-Windows_logo_-_2012_flags_blue.svg.png?20220217184230"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/GNU_and_Tux.svg/langfr-1280px-GNU_and_Tux.svg.png"></code>
 <code><img height="20" src="https://www.debian.org/logos/openlogo-nd.svg"></code>
 <code><img height="20" src="https://www.fractionservers.com/wp-content/uploads/2021/05/rockylogodebugpoint-1-300x289-1.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png?20191030192001"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/langfr-1920px-Kali_Linux_2.0_wordmark.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Android_robot_head.svg/768px-Android_robot_head.svg.png"></code>
+<br/><br/>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/langfr-225px-Vimlogo.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Windows_logo_-_2012_flags_blue.svg/1024px-Windows_logo_-_2012_flags_blue.svg.png"></code>
 <br/><br/>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/langfr-420px-Cisco_logo_blue_2016.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/PaloAltoNetworks_2020_Logo.svg/langfr-1920px-PaloAltoNetworks_2020_Logo.svg.png"></code>
