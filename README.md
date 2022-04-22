@@ -117,7 +117,7 @@ Languages, tools and technologies (used or mastered) 🛠:
 
 <br/><br/><br/>
 
-### My Projects ✨:
+### Some of my GitHub projects ✨:
   
 <a href="https://github.com/franckferman/Hyper-V_Toolbox">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=Hyper-V_Toolbox&theme=tokyonight" />
