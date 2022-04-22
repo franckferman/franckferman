@@ -63,7 +63,7 @@ Languages, tools and technologies (used or mastered) 🛠:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/5/58/Hyper-V_Logo.png?20211202221719"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/VMware-vSphere-7.jpg"></code>
+<code><img height="20" src="./img/vmware-vSphere-logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png"></code>
