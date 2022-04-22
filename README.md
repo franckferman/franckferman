@@ -56,11 +56,17 @@ Languages, tools and technologies (used or mastered).🛠:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/langfr-225px-Vimlogo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Windows_logo_-_2012_flags_blue.svg/1024px-Windows_logo_-_2012_flags_blue.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/378px-Netwide_Assembler.svg.png"></code>
+<br/><br/>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/5/58/Hyper-V_Logo.png?20211202221719"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/VMware-vSphere-7.jpg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png"></code>
 <br/><br/>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/langfr-420px-Cisco_logo_blue_2016.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/PaloAltoNetworks_2020_Logo.svg/langfr-1920px-PaloAltoNetworks_2020_Logo.svg.png"></code>
-<code><img height="20" src="https://play-lh.googleusercontent.com/RhZ1b1ZamK-E8WbTpEEd_x203pV_8GlBPM4-wrt7PKTRwfR2qinRh3PllXSg-JAX1vDB"></code>
 </details>
 
 ---
