@@ -10,7 +10,8 @@
 ### About me🔎:
 I am a computer enthusiast.<br/>
 I am interested in learning everything related to the computer field 💖 especially system and network administration and computer security.<br/><br/>
-These companies trusted me: <a href="https://www.veolia.com/" target="_blank">Veolia</a> 🌍, the <a href="https://www.assemblee-nationale.fr/" target="_blank">French National Assembly</a> 🇫🇷, the <a href="https://www.aulnay-sous-bois.fr/" target="_blank">city of Aulnay-sous-Bois</a> 🏙 and <a href="https://www.helpline.fr/" target="_blank">HELPLINE</a> 💻<br/>
+
+These companies trusted me: <a href="https://www.veolia.com/">Veolia</a> 🌍, the <a href="https://www.assemblee-nationale.fr/">French National Assembly</a> 🇫🇷, the <a href="https://www.aulnay-sous-bois.fr/">city of Aulnay-sous-Bois</a> 🏙 and <a href="https://www.helpline.fr/">HELPLINE</a> 💻<br/>
 Certifications: MD-100 🏅<br/><br/>
 
 <img align="right" alt="GIF" src="./img/chill.gif" width="400" height="280"/><!--<img align="right" alt="GIF" src="https://res.cloudinary.com/emishalabs/image/upload/q_80/v1612203030/UtkalHacks%203.0/camputer-image_zmpt7b.webp" width="400" height="280" />-->
