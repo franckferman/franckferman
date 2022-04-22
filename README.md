@@ -12,15 +12,15 @@ I am a computer enthusiast.<br/>
 I am interested in learning everything related to the computer field 💖 especially system and network administration and computer security.<br/>
 
 These companies trusted me: <a href="https://www.veolia.com/">Veolia</a> 🌍, the <a href="https://www.assemblee-nationale.fr/">French National Assembly</a> 🇫🇷, the <a href="https://www.aulnay-sous-bois.fr/">city of Aulnay-sous-Bois</a> 🏙 and <a href="https://www.helpline.fr/">HELPLINE</a> 💻<br/>
-Certifications: MD-100 🏅<br/><br/>
+Certifications: <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-100">MD-100</a> 🏅<br/><br/>
 
 <img align="right" alt="GIF" src="./img/chill.gif" width="400" height="280"/><!--<img align="right" alt="GIF" src="https://res.cloudinary.com/emishalabs/image/upload/q_80/v1612203030/UtkalHacks%203.0/camputer-image_zmpt7b.webp" width="400" height="280" />-->
 
-- 🔭 Currently systems and network administrator (for the city of Aulnay-sous-Bois).
-- 🌱 Some certification objectives: MD101, CCNA, CCNP.
+- 🔭 Currently systems and network administrator (for the <a href="https://www.aulnay-sous-bois.fr/">city of Aulnay-sous-Bois</a>).
+- 🌱 Some certification objectives: <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-101">MD-101</a>, <a href="https://learningnetwork.cisco.com/s/ccna">CCNA</a>, <a href="https://learningnetwork.cisco.com/s/ccnp-enterprise">CCNP</a>.
 - 🥷 I am open to any collaboration request (preferably with system and network administrators, computer security experts or developers).
 - 💬 Ask me about IT networks.
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 - ⚡ I 💖 to work 24/7.
 - 🎢 Profile Visitors Count:
 
@@ -32,19 +32,18 @@ Certifications: MD-100 🏅<br/><br/>
 
 <details>
 <summary>
-Languages and Tools🛠:
+Languages, tools and technologies (used or mastered).🛠:
 </summary>
-  <br/>
- <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png"></code>
+<br/>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/324px-Gnu-bash-logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg/120px-The_C_Programming_Language_logo.svg.png"></code>
 <br/><br/>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://www.php.net/images/logos/new-php-logo.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png?20141107110902"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/276px-MySQL_logo.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <br/><br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
