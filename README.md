@@ -9,7 +9,7 @@
 
 ### About me🔎:
 I am a computer enthusiast.<br/>
-I am interested in learning everything related to the computer field 💖 especially system and network administration and computer security.<br/><br/>
+I am interested in learning everything related to the computer field 💖 especially system and network administration and computer security.<br/>
 
 These companies trusted me: <a href="https://www.veolia.com/">Veolia</a> 🌍, the <a href="https://www.assemblee-nationale.fr/">French National Assembly</a> 🇫🇷, the <a href="https://www.aulnay-sous-bois.fr/">city of Aulnay-sous-Bois</a> 🏙 and <a href="https://www.helpline.fr/">HELPLINE</a> 💻<br/>
 Certifications: MD-100 🏅<br/><br/>
