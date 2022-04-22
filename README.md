@@ -21,7 +21,8 @@ Certifications: MD-100 🏅<br/><br/>
 - 💬 Ask me about IT networks.
 - 😄 Pronouns: He/Him
 - ⚡ I 💖 to work 24/7.
-- 🎢 Profile Visitors Count:　　![](https://visitor-badge.glitch.me/badge?page_id=franckferman.franckferman&left_color=grey&right_color=red&left_text=Number%20of%20profile%20views)
+- 🎢 Profile Visitors Count:
+![](https://visitor-badge.glitch.me/badge?page_id=franckferman.franckferman&left_color=grey&right_color=red&left_text=Number%20of%20profile%20views)
 
 <br/>
 
