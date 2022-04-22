@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <p align="center">
-<img width="200rem"; height="auto" src="./img/logo.png"/>
+<img width="200rem"; height="auto" src="./img/chill.gif"/>
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F74924&size=20&center=true&vCenter=true&width=550&height=70&lines=Hello+everyone+👋,+my+name+is+Franck+FERMAN+🥐️;Systems,+networks+and+computer+security+💻;IT+enthusiast,+I+love+to+set+up+projects+🛠️;">
