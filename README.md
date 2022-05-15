@@ -17,7 +17,7 @@ Certifications: <a href="https://docs.microsoft.com/en-us/learn/certifications/e
 <img align="right" alt="GIF" src="./resources/images/chill.gif" width="400" height="280"/><!--<img align="right" alt="GIF" src="https://res.cloudinary.com/emishalabs/image/upload/q_80/v1612203030/UtkalHacks%203.0/camputer-image_zmpt7b.webp" width="400" height="280" />-->
 
 - 🔭 Currently systems and network administrator.
-- 🌱 Some certification objectives: <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-101">MD-101</a>, <a href="https://learningnetwork.cisco.com/s/ccna">CCNA</a>, <a href="https://learningnetwork.cisco.com/s/ccnp-enterprise">CCNP</a>.
+- 🌱 Some certification objectives: <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-101">MD-101</a>, <a href="https://docs.microsoft.com/en-us/learn/certifications/modern-desktop/">Microsoft 365 Certified</a> (Modern Desktop Administrator Associate), <a href="https://learningnetwork.cisco.com/s/ccna">CCNA</a> (Cisco Certified Network Associate), <a href="https://learningnetwork.cisco.com/s/ccnp-enterprise">CCNP</a> (Cisco Certified Networking Professional).
 - 🥷 I am open to any collaboration request (preferably with system and network administrators, computer security experts or developers).
 - 💬 Ask me about IT networks.
 - 😄 Pronouns: He/Him.
