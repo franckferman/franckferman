@@ -95,7 +95,7 @@ Languages, tools and technologies (used or mastered) 🛠:
   <img align="left" alt="YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/YouTube_play_button_rounded_square_%282013-2017%29.svg/108px-YouTube_play_button_rounded_square_%282013-2017%29.svg.png"/>
 </a>
 
-<a href="https://linkedin.com/in/fferman42/">
+<a href="https://linkedin.com/in/franckferman/">
   <img align="left" alt="LinkedIn" width="26px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
 </a>
 
@@ -125,14 +125,6 @@ Languages, tools and technologies (used or mastered) 🛠:
 
 <a href="https://github.com/franckferman/The_Network_Calculator_Toolbox">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=The_Network_Calculator_Toolbox&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/franckferman/fix_wsl2_networking">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=fix_wsl2_networking&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/franckferman/PowerNest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=PowerNest&theme=tokyonight" />
 </a>
 
 <div align="center">
