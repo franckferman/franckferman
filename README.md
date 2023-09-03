@@ -65,7 +65,7 @@ These companies trusted me: <a href="https://www.veolia.com/">Veolia</a> 🌍, t
 <code><img height="20" src="./assets/github/logo_graphics/HyperV.png"></code>
 <code><img height="20" src="./assets/github/logo_graphics/Virtualbox.png"></code>
 <code><img height="20" src="./assets/github/logo_graphics/VmWare.png"></code>
-<code><img height="20" src="./assets/github/logo_graphics/vSphere.png"></code>
+<code><img height="20" src="./assets/github/logo_graphics/vSphere.jpg"></code>
 <code><img height="20" src="./assets/github/logo_graphics/Proxmox.png"></code>
 <br/><br/>
 <code><img height="20" src="./assets/github/logo_graphics/Cisco.png"></code>
