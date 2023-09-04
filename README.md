@@ -59,7 +59,7 @@ These companies trusted me: <a href="https://www.veolia.com/">Veolia</a> 🌍, t
 <code><img height="20" src="./assets/github/logo_graphics/Rocky.png"></code>
 <code><img height="20" src="./assets/github/logo_graphics/Kali.png"></code>
 <code><img height="20" src="./assets/github/logo_graphics/Parrot.png"></code>
-<code><img height="20" src="./assets/github/logo_graphics/Tails.png"></code>
+<code><img height="20" src="./assets/github/logo_graphics/Tails.svg"></code>
 <code><img height="20" src="./assets/github/logo_graphics/Qubes.png"></code>
 <br/><br/>
 <code><img height="20" src="./assets/github/logo_graphics/HyperV.png"></code>
