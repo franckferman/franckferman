@@ -78,7 +78,7 @@ These companies trusted me: <a href="https://www.veolia.com/">Veolia</a> 🌍, t
 <details>
 <summary>🤝 Connect with me:</summary>  
 <br/>
-<a href="mailto:fferman@protonmail.ch">
+<a href="mailto:contact@franckferman.fr">
   <img align="left" alt="ProtonMail" width="16px" src="./assets/github/logo_graphics/Proton.png"/>
 </a>
 
