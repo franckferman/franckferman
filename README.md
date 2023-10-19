@@ -9,20 +9,19 @@
 </p>
 
 ### About me 🔎:
-From an early age, the digital realm has always been a playground for my inquisitive mind. My initial forays were fairly rudimentary, involving tasks like game console hacking—a hobby that fascinated me. Soon, this interest evolved into something far more ambitious. I stepped into the world of game server administration, where I not only built but also managed intricate infrastructures and teams, transforming it into a successful business venture.<br/>
+From childhood, the digital domain was my playground, starting with game console hacking and progressing into game server enterprises. Web development was a notable chapter, but my enduring interest in cybersecurity intensified as I delved into its more complex aspects.<br/>
 
-As I delved deeper, web development caught my interest. The ability to bring ideas to life on the web was incredibly fulfilling. My curiosity then drove me to explore low-level computing, an area that nudged me closer to the field of cybersecurity. Though cybersecurity was neither my formal education nor my initial profession, the subject captivated me. I had a strong foundational understanding and continuously honed my skills through self-directed learning and practice.<br/>
+Now, I'm on my journey towards a Master's in Information Security. With experiences ranging from support roles to system administration and a peak role as a CISO, have taught me a blend of technical and non-technical skills.<br/>
 
-Recognizing the imperative nature of cybersecurity in our digital age, I pursued a Master's degree in Information Security.<br/>
-
-I had the privilege to serve as a Chief Information Security Officer (CISO). My varied background—from support technician to advanced roles, and finally to system and network administration—has enriched me with a well-rounded skill set in the tech industry. Each experience has been a stepping stone, guiding me through a journey where I've had the opportunity to engage with all facets of technology and cybersecurity.<br/><br/>
+These experiences have provided me with a holistic view of the IT field, offering insights into the mindset of each role and the challenges they face.<br/><br/>
 
 These companies trusted me: <a href="https://www.veolia.com/">Veolia</a> 🌍, the <a href="https://www.assemblee-nationale.fr/">French National Assembly</a> 🇫🇷 and the <a href="https://www.aulnay-sous-bois.fr/">city of Aulnay-sous-Bois</a> 🏙<br/>
 
 <img align="right" alt="GIF" src="./assets/github/graphical_resources/cyber.gif" width="500" height="300"/>
 
-- 🛡️ Currently CISO (Chief Information Security Officer).
-- ☕ For collaborations or simply to connect over a chat or coffee, I'm always open.
+- 🛡️ Previously served as a CISO (Chief Information Security Officer).
+- 🚀 Currently a Self-entrepreneur. While I'm not seeking employment, I remain receptive to opportunities in the tech and cybersecurity fields.
+- ☕ For collaborations or simply to connect over a chat or coffee, I'm open.
 - ♂️ Pronouns: He/Him.
 
 ---
@@ -103,13 +102,13 @@ These companies trusted me: <a href="https://www.veolia.com/">Veolia</a> 🌍, t
 <br/><br/>
 
 ### Some of my GitHub projects ✨:
-  
-<a href="https://github.com/franckferman/Hyper-V_Toolbox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=Hyper-V_Toolbox&theme=tokyonight" />
-</a>
 
 <a href="https://github.com/franckferman/MetaDetective">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=MetaDetective&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/franckferman/Hyper-V_Toolbox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=Hyper-V_Toolbox&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/franckferman/CassandraCTI">
