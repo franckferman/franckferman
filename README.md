@@ -120,8 +120,8 @@ These companies trusted me: <a href="https://www.veolia.com/">Veolia</a> 🌍, t
 </a>
 
 <div align="center">
-  
-<br/>
+
+<br/><br/>
 
 ### Show me your ❤️ by putting 🌟 to my [repositories](https://github.com/franckferman?tab=repositories).
 
