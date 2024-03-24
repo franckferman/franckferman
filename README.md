@@ -9,11 +9,7 @@
 </p>
 
 ### About me 🔎:
-From childhood, the digital domain was my playground, starting with game console hacking and progressing into game server enterprises. Web development was a notable chapter, but my enduring interest in cybersecurity intensified as I delved into its more complex aspects.<br/>
-
-Now, I'm on my journey towards a Master's in Information Security. With experiences ranging from support roles to system administration and a peak role as a CISO, have taught me a blend of technical and non-technical skills.<br/>
-
-These experiences have provided me with a holistic view of the IT field, offering insights into the mindset of each role and the challenges they face.<br/><br/>
+With a wealth of diversified experience, I have demonstrated effective involvement in both the technical and governance spheres, broadening my spectrum of cross-disciplinary and specialist skills. This versatility has made me particularly sensitive to the multidimensional challenges of IT security.<br/><br/>
 
 These companies trusted me: <a href="https://www.veolia.com/">Veolia</a> 🌍, the <a href="https://www.assemblee-nationale.fr/">French National Assembly</a> 🇫🇷 and the <a href="https://www.aulnay-sous-bois.fr/">city of Aulnay-sous-Bois</a> 🏙<br/>
 
