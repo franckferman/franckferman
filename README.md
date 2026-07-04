@@ -27,17 +27,20 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Systems_%26_Networks-6e7781?style=flat-square" alt="Systems & Networks"/>
-  &nbsp;
+</p>
+
+<p align="center">
+  <sub>Hardening · DevOps</sub>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Development-6e7781?style=flat-square" alt="Development"/>
   &nbsp;
   <img src="https://img.shields.io/badge/AI-6e7781?style=flat-square" alt="AI"/>
 </p>
 
 <p align="center">
-  <sub>
-    Hardening · DevOps<br/>
-    Local LLMs · RAG · Fine-tuning · Automation
-  </sub>
+  <sub>Local LLMs · RAG · Fine-tuning · Automation</sub>
 </p>
 
 <p align="center">
