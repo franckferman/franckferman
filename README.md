@@ -26,7 +26,9 @@
 
 ### About me
 
-Cybersecurity professional with a background spanning **Offensive Security**, **System & Network Administration**, **SOC**, and **Security Governance** (Risk Management, Compliance, Security Strategy). I build and break things, and I document both.
+Cybersecurity professional with a background spanning **Offensive Security**, **System & Network Administration**, **SOC**, and **Security Governance** (Risk Management, Compliance, Security Strategy).
+
+> I build and break things, and I document both.
 
 ---
 
