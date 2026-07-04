@@ -261,15 +261,6 @@ Cybersecurity professional with a background spanning **Offensive Security**, **
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franckferman/franckferman/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/franckferman/franckferman/output/snake.svg" alt="contribution snake" />
-  </picture>
-</p>
-
----
-
 ### Projects
 
 <p align="center">
