@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/franckferman/franckferman/refs/heads/main/docs/github/graphical_resources/cyber-sphere-animation.gif" width="280px" height="280px"/>
+  <img src="docs/github/graphical_resources/cyber-sphere-animation.gif" width="280px" height="280px" alt="Franck Ferman" />
 </p>
 
 <h3 align="center">Franck Ferman</h3>
@@ -98,37 +98,37 @@ Cybersecurity professional with a background spanning **Offensive Security**, **
 ### Research & CVEs
 
 - **[CVE-2025-67906](https://nvd.nist.gov/vuln/detail/CVE-2025-67906)** — Stored XSS · MISP Workflow Engine<br/>
-  ![](https://img.shields.io/badge/CVSS-9.0_Critical-CC0000?style=flat-square) ![](https://img.shields.io/badge/Patched-2ea043?style=flat-square)<br/>
+  ![CVSS 9.0 Critical](https://img.shields.io/badge/CVSS-9.0_Critical-CC0000?style=flat-square) ![Patched](https://img.shields.io/badge/Patched-2ea043?style=flat-square)<br/>
   *Zero-click persistent XSS via doT.js template injection. Session hijacking, threat intel data exfiltration.*
 
 - **Critical 0-Days** — Blind SQLi & Zero-Click Stored XSS · GovTech / Enterprise SaaS<br/>
-  ![](https://img.shields.io/badge/CVSS-Critical-CC0000?style=flat-square) ![](https://img.shields.io/badge/NDA-E36209?style=flat-square)<br/>
+  ![CVSS Critical](https://img.shields.io/badge/CVSS-Critical-CC0000?style=flat-square) ![NDA](https://img.shields.io/badge/NDA-E36209?style=flat-square)<br/>
   *Unauthenticated DB exfiltration + zero-click super-admin session takeover.*
 
 - **Critical 0-Day** — Cryptographic Failure + Business Logic · Fortune 500 Payment Infrastructure<br/>
-  ![](https://img.shields.io/badge/CVSS-Critical-CC0000?style=flat-square) ![](https://img.shields.io/badge/NDA-E36209?style=flat-square)<br/>
+  ![CVSS Critical](https://img.shields.io/badge/CVSS-Critical-CC0000?style=flat-square) ![NDA](https://img.shields.io/badge/NDA-E36209?style=flat-square)<br/>
   *Transaction integrity bypass across the entire global payment network.*
 
 - **Critical** — Chained Authentication Bypass · Xelians<br/>
-  ![](https://img.shields.io/badge/CVSS-9.3_Critical-CC0000?style=flat-square)<br/>
+  ![CVSS 9.3 Critical](https://img.shields.io/badge/CVSS-9.3_Critical-CC0000?style=flat-square)<br/>
   *Multiple chained vulnerabilities leading to full account takeover across the platform and all client tenants — including sensitive government archive data.*
 
 - **High** — Mass Government Data Exfiltration via Authentication Bypass · DINUM<br/>
-  ![](https://img.shields.io/badge/CVSS-7.5_High-FF6600?style=flat-square)<br/>
+  ![CVSS 7.5 High](https://img.shields.io/badge/CVSS-7.5_High-FF6600?style=flat-square)<br/>
   *Chained enumeration and authentication bypass — exposing criminal investigation files, classified government records, employee PII, and sensitive operational data across the entire French public sector.*
 
 - **High** — CORS Misconfiguration + Regex Bypass · Qwant<br/>
-  ![](https://img.shields.io/badge/CVSS-7.4_High-FF6600?style=flat-square)<br/>
+  ![CVSS 7.4 High](https://img.shields.io/badge/CVSS-7.4_High-FF6600?style=flat-square)<br/>
   *Cross-origin exfiltration of authenticated data via origin reflection and suffix bypass.*
 
 - **High** — Healthcare Platform Data Exfiltration · Caisse Nationale d'Assurance Maladie<br/>
-  ![](https://img.shields.io/badge/CVSS-7.5_High-FF6600?style=flat-square)<br/>
+  ![CVSS 7.5 High](https://img.shields.io/badge/CVSS-7.5_High-FF6600?style=flat-square)<br/>
   *Unauthenticated access to sensitive internal healthcare data and operational information of France's national health platform.*
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/franckferman/franckferman/refs/heads/main/docs/github/graphical_resources/cyberpunk-city-pixel-art.gif" width="680" alt="Cyberpunk City Pixel Art"/>
+  <img src="docs/github/graphical_resources/cyberpunk-city-pixel-art.gif" width="680" alt="Cyberpunk City Pixel Art"/>
 </p>
 
 - **Pentest & Red Teaming** — Infrastructure, AD, web & WiFi assessments, adversary emulation, OPSEC.
@@ -243,11 +243,11 @@ Cybersecurity professional with a background spanning **Offensive Security**, **
 
 <p align="center">
   <a href="https://github.com/franckferman">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franckferman&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franckferman&layout=compact&theme=tokyonight" alt="Most used languages" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/franckferman">
-    <img src="https://github-readme-stats.vercel.app/api?username=franckferman&show_icons=true&theme=tokyonight&hide_title=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=franckferman&show_icons=true&theme=tokyonight&hide_title=true" alt="Franck Ferman GitHub stats" />
   </a>
 </p>
 
@@ -265,81 +265,81 @@ Cybersecurity professional with a background spanning **Offensive Security**, **
 
 <p align="center">
   <a href="https://github.com/franckferman/MetaDetective">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=MetaDetective&theme=tokyonight&description=Metadata%20extraction%2C%20web%20scraping%20%26%20GPS%20intelligence%20for%20OSINT%20and%20pentesting" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=MetaDetective&theme=tokyonight&description=Metadata%20extraction%2C%20web%20scraping%20%26%20GPS%20intelligence%20for%20OSINT%20and%20pentesting" alt="MetaDetective repository" />
   </a>
   &nbsp;
   <a href="https://github.com/franckferman/SYSTEMatic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=SYSTEMatic&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=SYSTEMatic&theme=tokyonight" alt="SYSTEMatic repository" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/franckferman/ADMappingToolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=ADMappingToolkit&theme=tokyonight&description=Hybrid%20SI%20mapping%20%E2%80%93%20AD%20inventory%20%2B%20network%20scan%20%2B%20host%20discovery" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=ADMappingToolkit&theme=tokyonight&description=Hybrid%20SI%20mapping%20%E2%80%93%20AD%20inventory%20%2B%20network%20scan%20%2B%20host%20discovery" alt="ADMappingToolkit repository" />
   </a>
   &nbsp;
   <a href="https://github.com/franckferman/AD-AdminSDHolder-Toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=AD-AdminSDHolder-Toolkit&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=AD-AdminSDHolder-Toolkit&theme=tokyonight" alt="AD-AdminSDHolder-Toolkit repository" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/franckferman/CassandraCTI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=CassandraCTI&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=CassandraCTI&theme=tokyonight" alt="CassandraCTI repository" />
   </a>
   &nbsp;
   <a href="https://github.com/franckferman/PunyPwn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=PunyPwn&theme=tokyonight&description=Domain%20attack%20surface%20generator%20%E2%80%93%2012%20typosquatting%20modules" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=PunyPwn&theme=tokyonight&description=Domain%20attack%20surface%20generator%20%E2%80%93%2012%20typosquatting%20modules" alt="PunyPwn repository" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/franckferman/LastLog-Audit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=LastLog-Audit&theme=tokyonight&description=Linux%20auth%20log%20forensics%20%E2%80%93%20lastlog%2C%20wtmp%2C%20auth.log%20%2B%20correlation" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=LastLog-Audit&theme=tokyonight&description=Linux%20auth%20log%20forensics%20%E2%80%93%20lastlog%2C%20wtmp%2C%20auth.log%20%2B%20correlation" alt="LastLog-Audit repository" />
   </a>
   &nbsp;
   <a href="https://github.com/franckferman/hidemylogs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=hidemylogs&theme=tokyonight&description=Surgical%20*nix%20log%20cleaner%20in%20Rust%20%E2%80%93%20wipe%2C%20forge%2C%20preserve%20metadata" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=hidemylogs&theme=tokyonight&description=Surgical%20*nix%20log%20cleaner%20in%20Rust%20%E2%80%93%20wipe%2C%20forge%2C%20preserve%20metadata" alt="hidemylogs repository" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/franckferman/CVE-2025-67906">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=CVE-2025-67906&theme=tokyonight&description=MISP%20%3C%3D%202.5.27%20Stored%20XSS%20%E2%80%93%20doT.js%20template%20injection%20%2B%20CSP%20bypass" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=CVE-2025-67906&theme=tokyonight&description=MISP%20%3C%3D%202.5.27%20Stored%20XSS%20%E2%80%93%20doT.js%20template%20injection%20%2B%20CSP%20bypass" alt="CVE-2025-67906 repository" />
   </a>
   &nbsp;
   <a href="https://github.com/franckferman/CVE_2026_24061">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=CVE_2026_24061&theme=tokyonight&description=GNU%20telnetd%20auth%20bypass%20%E2%80%93%20unauthenticated%20root%20shell%20via%20NEW-ENVIRON" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=CVE_2026_24061&theme=tokyonight&description=GNU%20telnetd%20auth%20bypass%20%E2%80%93%20unauthenticated%20root%20shell%20via%20NEW-ENVIRON" alt="CVE_2026_24061 repository" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/franckferman/do-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=do-manager&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=do-manager&theme=tokyonight" alt="do-manager repository" />
   </a>
   &nbsp;
   <a href="https://github.com/franckferman/ubuntu-post-install">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=ubuntu-post-install&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=ubuntu-post-install&theme=tokyonight" alt="ubuntu-post-install repository" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/franckferman/bmctl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=bmctl&theme=tokyonight&description=Firefox%20bookmark%20toolkit%20%E2%80%93%20audit%2C%20compare%2C%20merge%2C%20dashboard" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=bmctl&theme=tokyonight&description=Firefox%20bookmark%20toolkit%20%E2%80%93%20audit%2C%20compare%2C%20merge%2C%20dashboard" alt="bmctl repository" />
   </a>
   &nbsp;
   <a href="https://github.com/franckferman/whispr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=whispr&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=whispr&theme=tokyonight" alt="whispr repository" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/franckferman/Floodles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=Floodles&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=Floodles&theme=tokyonight" alt="Floodles repository" />
   </a>
   &nbsp;
   <a href="https://github.com/franckferman/DOSArena">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=DOSArena&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franckferman&repo=DOSArena&theme=tokyonight" alt="DOSArena repository" />
   </a>
 </p>
 
