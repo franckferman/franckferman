@@ -41,11 +41,13 @@
 </p>
 
 <p align="center">
-  <a href="https://blog.franckferman.fr/"><img src="https://img.shields.io/badge/Blog-blog.franckferman.fr-333333?style=flat-square&logo=ghost&logoColor=white"/></a>
+  <a href="https://blog.franckferman.fr/"><img src="https://img.shields.io/badge/Blog-blog.franckferman.fr-333333?style=flat-square&logo=ghost&logoColor=white" alt="Blog"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/franckferman/"><img src="https://img.shields.io/badge/LinkedIn-franckferman-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/franckferman/"><img src="https://img.shields.io/badge/LinkedIn-franckferman-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="https://twitter.com/franckferman"><img src="https://img.shields.io/badge/X-franckferman-000000?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="https://twitter.com/franckferman"><img src="https://img.shields.io/badge/X-franckferman-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  &nbsp;
+  <a href="https://www.root-me.org/franckferman"><img src="https://img.shields.io/badge/Root--Me-franckferman-E01E24?style=flat-square&logo=rootme&logoColor=white" alt="Root-Me"/></a>
 </p>
 
 ---
@@ -218,8 +220,11 @@ Cybersecurity professional with a background spanning **Offensive Security**, **
 
 **AI & LLM**
 
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white)
 ![Local LLMs](https://img.shields.io/badge/Local_LLMs-333333?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-333333?style=flat-square&logoColor=white)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-333333?style=flat-square&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 **Governance & Compliance**
 
@@ -234,12 +239,6 @@ Cybersecurity professional with a background spanning **Offensive Security**, **
 </details>
 
 ---
-
-<p align="center">
-  <a href="https://www.root-me.org/franckferman">
-    <img src="https://root-me-diff.vercel.app/rm-gh?nickname=franckferman&style=dark&gstats=show" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/franckferman">
