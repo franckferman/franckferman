@@ -8,9 +8,10 @@
 <p align="center">
   Cybersecurity Engineer<br/><br/>
   Offensive Security &nbsp;&nbsp;▪&nbsp;&nbsp; Pentest &nbsp;&nbsp;▪&nbsp;&nbsp; Red Team &nbsp;&nbsp;▪&nbsp;&nbsp; Malware Development<br/>
-  Defensive Security &nbsp;&nbsp;▪&nbsp;&nbsp; SOC<br/>
-  System &amp; Network &nbsp;&nbsp;▪&nbsp;&nbsp; DevOps<br/>
-  Governance &nbsp;&nbsp;▪&nbsp;&nbsp; Risk &amp; Compliance
+  Defensive Security &nbsp;&nbsp;▪&nbsp;&nbsp; SOC &nbsp;&nbsp;▪&nbsp;&nbsp; Cyber Threat Intelligence<br/>
+  System &amp; Network &nbsp;&nbsp;▪&nbsp;&nbsp; DevOps &nbsp;&nbsp;▪&nbsp;&nbsp; Development<br/>
+  Governance &nbsp;&nbsp;▪&nbsp;&nbsp; Risk &amp; Compliance<br/>
+  AI &nbsp;&nbsp;▪&nbsp;&nbsp; Local LLMs &nbsp;&nbsp;▪&nbsp;&nbsp; RAG &nbsp;&nbsp;▪&nbsp;&nbsp; Fine-tuning &nbsp;&nbsp;▪&nbsp;&nbsp; Automation
 </p>
 
 <p align="center">
