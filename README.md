@@ -18,13 +18,11 @@
 </p>
 
 <p align="center">
-  <sub>
-    Pentest · Red Team · Malware Development<br/>
-    SOC · Cyber Threat Intelligence<br/>
-    System &amp; Network · Hardening · DevOps · Development<br/>
-    Risk &amp; Compliance<br/>
-    Local LLMs · RAG · Fine-tuning · Automation
-  </sub>
+  <img src="https://img.shields.io/badge/System_%26_Network-6e7781?style=flat-square" alt="System & Network"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Development-6e7781?style=flat-square" alt="Development"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI-6e7781?style=flat-square" alt="AI"/>
 </p>
 
 <p align="center">
