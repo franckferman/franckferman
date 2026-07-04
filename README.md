@@ -7,11 +7,7 @@
 <h3 align="center">Franck FERMAN</h3>
 <p align="center">
   Cybersecurity Engineer<br/><br/>
-  Offensive Security &nbsp;&nbsp;▪&nbsp;&nbsp; Pentest &nbsp;&nbsp;▪&nbsp;&nbsp; Red Team &nbsp;&nbsp;▪&nbsp;&nbsp; Malware Development<br/>
-  Defensive Security &nbsp;&nbsp;▪&nbsp;&nbsp; SOC &nbsp;&nbsp;▪&nbsp;&nbsp; Cyber Threat Intelligence<br/>
-  System &amp; Network &nbsp;&nbsp;▪&nbsp;&nbsp; Hardening &nbsp;&nbsp;▪&nbsp;&nbsp; DevOps &nbsp;&nbsp;▪&nbsp;&nbsp; Development<br/>
-  Governance &nbsp;&nbsp;▪&nbsp;&nbsp; Risk &amp; Compliance<br/>
-  AI &nbsp;&nbsp;▪&nbsp;&nbsp; Local LLMs &nbsp;&nbsp;▪&nbsp;&nbsp; RAG &nbsp;&nbsp;▪&nbsp;&nbsp; Fine-tuning &nbsp;&nbsp;▪&nbsp;&nbsp; Automation
+  Offensive Security &nbsp;&nbsp;▪&nbsp;&nbsp; Defensive Security &nbsp;&nbsp;▪&nbsp;&nbsp; Governance
 </p>
 
 <p align="center">
@@ -29,6 +25,18 @@
 Cybersecurity professional with a background spanning **Offensive Security**, **System & Network Administration**, **SOC**, and **Security Governance** (Risk Management, Compliance, Security Strategy).
 
 > I build and break things, and I document both.
+
+---
+
+### Focus
+
+<p>
+  <b>Offensive</b> &nbsp;—&nbsp; Pentest · Red Team · Malware Development<br/>
+  <b>Defensive</b> &nbsp;—&nbsp; SOC · Cyber Threat Intelligence<br/>
+  <b>Systems</b> &nbsp;—&nbsp; System &amp; Network · Hardening · DevOps · Development<br/>
+  <b>Governance</b> &nbsp;—&nbsp; Risk &amp; Compliance<br/>
+  <b>AI</b> &nbsp;—&nbsp; Local LLMs · RAG · Fine-tuning · Automation
+</p>
 
 ---
 
