@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/franckferman/franckferman/refs/heads/main/docs/github/graphical_resources/cyber-sphere-animation.gif" width="280px" height="280px"/>
 </p>
 
-<h3 align="center">Franck FERMAN</h3>
+<h3 align="center">Franck Ferman</h3>
 <p align="center">
   Cybersecurity Engineer
 </p>
