@@ -6,9 +6,11 @@
 
 <h3 align="center">Franck FERMAN</h3>
 <p align="center">
-  CyberSecurity Engineer<br/><br/>
-  Pentest &nbsp;&nbsp;▪&nbsp;&nbsp; Red Team &nbsp;&nbsp;▪&nbsp;&nbsp; Malware Development<br/>
-  SOC &nbsp;&nbsp;▪&nbsp;&nbsp; System &amp; Network &nbsp;&nbsp;▪&nbsp;&nbsp; Governance
+  Cybersecurity Engineer<br/><br/>
+  Offensive Security &nbsp;&nbsp;▪&nbsp;&nbsp; Pentest &nbsp;&nbsp;▪&nbsp;&nbsp; Red Team &nbsp;&nbsp;▪&nbsp;&nbsp; Malware Development<br/>
+  Defensive Security &nbsp;&nbsp;▪&nbsp;&nbsp; SOC<br/>
+  System &amp; Network &nbsp;&nbsp;▪&nbsp;&nbsp; DevOps<br/>
+  Governance &nbsp;&nbsp;▪&nbsp;&nbsp; Risk &amp; Compliance
 </p>
 
 <p align="center">
