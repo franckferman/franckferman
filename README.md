@@ -6,29 +6,25 @@
 
 <h3 align="center">Franck FERMAN</h3>
 <p align="center">
-  Cybersecurity Engineer<br/><br/>
-  <b>Offensive Security</b> &nbsp;&nbsp;▪&nbsp;&nbsp; <b>Defensive Security</b> &nbsp;&nbsp;▪&nbsp;&nbsp; <b>Governance</b>
+  Cybersecurity Engineer
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pentest-c0392b?style=flat-square" alt="Pentest"/>
-  <img src="https://img.shields.io/badge/Red_Team-c0392b?style=flat-square" alt="Red Team"/>
-  <img src="https://img.shields.io/badge/Malware_Development-c0392b?style=flat-square" alt="Malware Development"/>
-  <br/>
-  <img src="https://img.shields.io/badge/SOC-1f6feb?style=flat-square" alt="SOC"/>
-  <img src="https://img.shields.io/badge/Cyber_Threat_Intelligence-1f6feb?style=flat-square" alt="Cyber Threat Intelligence"/>
-  <br/>
-  <img src="https://img.shields.io/badge/System_%26_Network-6e7781?style=flat-square" alt="System & Network"/>
-  <img src="https://img.shields.io/badge/Hardening-6e7781?style=flat-square" alt="Hardening"/>
-  <img src="https://img.shields.io/badge/DevOps-6e7781?style=flat-square" alt="DevOps"/>
-  <img src="https://img.shields.io/badge/Development-6e7781?style=flat-square" alt="Development"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Risk_%26_Compliance-8957e5?style=flat-square" alt="Risk & Compliance"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Local_LLMs-2ea043?style=flat-square" alt="Local LLMs"/>
-  <img src="https://img.shields.io/badge/RAG-2ea043?style=flat-square" alt="RAG"/>
-  <img src="https://img.shields.io/badge/Fine--tuning-2ea043?style=flat-square" alt="Fine-tuning"/>
-  <img src="https://img.shields.io/badge/Automation-2ea043?style=flat-square" alt="Automation"/>
+  <img src="https://img.shields.io/badge/Offensive_Security-c0392b?style=flat-square" alt="Offensive Security"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Defensive_Security-1f6feb?style=flat-square" alt="Defensive Security"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Governance-8957e5?style=flat-square" alt="Governance"/>
+</p>
+
+<p align="center">
+  <sub>
+    Pentest · Red Team · Malware Development<br/>
+    SOC · Cyber Threat Intelligence<br/>
+    System &amp; Network · Hardening · DevOps · Development<br/>
+    Risk &amp; Compliance<br/>
+    Local LLMs · RAG · Fine-tuning · Automation
+  </sub>
 </p>
 
 <p align="center">
