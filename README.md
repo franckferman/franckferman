@@ -21,7 +21,7 @@
   <sub>
     Pentest · Red Team · Malware Development<br/>
     SOC · SIEM · DFIR · Cyber Threat Intelligence<br/>
-    Risk &amp; Compliance · ISMS · EBIOS RM · ISO 27001
+    Risk &amp; Compliance · ISMS · EBIOS RM · ISO 27001 · PCI-DSS · PDIS
   </sub>
 </p>
 
@@ -35,8 +35,8 @@
 
 <p align="center">
   <sub>
-    Hardening · DevOps<br/>
-    Local LLMs · RAG · Fine-tuning · Automation
+    Windows · Linux · Hardening · Automation · DevOps<br/>
+    Local LLMs · RAG · Fine-tuning · AI Automation
   </sub>
 </p>
 
@@ -82,10 +82,10 @@ Cybersecurity professional with a background spanning **Offensive Security**, **
 - 🏙 **[City of Aulnay-sous-Bois](https://www.aulnay-sous-bois.fr/)** — IT → SysAdmin & Network Engineer → CISO
   *Municipal infrastructure — 85,000+ inhabitants, 2,000+ agents, 100+ sites, 1,500+ endpoints.*
 
-- 🎭 **[Théâtre des Champs-Élysées](https://www.theatrechampselysees.fr/)** — CyberSecurity Engineer
+- 🎭 **[Théâtre des Champs-Élysées](https://www.theatrechampselysees.fr/)** — Cybersecurity Engineer
   *Classified French historical monument (1957), Avenue Montaigne — under Caisse des Dépôts et Consignations. Hybrid SI security, offensive & defensive operations, SOC deployment.*
 
-- 🏦 **[Crédit Agricole](https://www.credit-agricole.fr/)** — CyberSecurity & Linux Systems Engineer
+- 🏦 **[Crédit Agricole](https://www.credit-agricole.fr/)** — Cybersecurity & Linux Systems Engineer
   *One of the world's largest banking groups — €2,000B+ in assets, 150,000+ employees worldwide.*
 
 - ⚔️ **KatanHack** — Founder
